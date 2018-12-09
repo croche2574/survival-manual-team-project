@@ -1,0 +1,132 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Reflector}{online}{}
+      \name{author}{1}{}{%
+        {{hash=20173099c104442bf5008842e147465a}{%
+           family={Mohasin},
+           familyi={M\bibinitperiod},
+           given={Shaik},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{20173099c104442bf5008842e147465a}
+      \strng{fullhash}{20173099c104442bf5008842e147465a}
+      \strng{bibnamehash}{20173099c104442bf5008842e147465a}
+      \strng{authorbibnamehash}{20173099c104442bf5008842e147465a}
+      \strng{authornamehash}{20173099c104442bf5008842e147465a}
+      \strng{authorfullhash}{20173099c104442bf5008842e147465a}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{title}{World of Energy}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://shaikmohasin.wordpress.com/2012/08/25/parabolic-dish-system/
+      \endverb
+      \verb{url}
+      \verb https://shaikmohasin.wordpress.com/2012/08/25/parabolic-dish-system/
+      \endverb
+    \endentry
+    \entry{Steam-Gen}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=e1746652f1a4e2f243c10763c10a44c4}{%
+           family={Dascomb},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Florida State University}%
+      }
+      \strng{namehash}{e1746652f1a4e2f243c10763c10a44c4}
+      \strng{fullhash}{e1746652f1a4e2f243c10763c10a44c4}
+      \strng{bibnamehash}{e1746652f1a4e2f243c10763c10a44c4}
+      \strng{authorbibnamehash}{e1746652f1a4e2f243c10763c10a44c4}
+      \strng{authornamehash}{e1746652f1a4e2f243c10763c10a44c4}
+      \strng{authorfullhash}{e1746652f1a4e2f243c10763c10a44c4}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{LOW-COST CONCENTRATING SOLAR COLLECTOR FOR STEAM GENERATION}
+      \field{type}{phdthesis}
+      \field{year}{2009}
+    \endentry
+    \entry{Trough-Gen}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b991ed559a63c64542110febfd57fd0f}{%
+           family={Marken},
+           familyi={M\bibinitperiod},
+           given={Chuck},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b991ed559a63c64542110febfd57fd0f}
+      \strng{fullhash}{b991ed559a63c64542110febfd57fd0f}
+      \strng{bibnamehash}{b991ed559a63c64542110febfd57fd0f}
+      \strng{authorbibnamehash}{b991ed559a63c64542110febfd57fd0f}
+      \strng{authornamehash}{b991ed559a63c64542110febfd57fd0f}
+      \strng{authorfullhash}{b991ed559a63c64542110febfd57fd0f}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Solar Collectors ...Behind the Glass}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://www.homepower.com/articles/solar-water-heating/equipment-products/solar-collectors-behind-glass
+      \endverb
+      \verb{url}
+      \verb https://www.homepower.com/articles/solar-water-heating/equipment-products/solar-collectors-behind-glass
+      \endverb
+    \endentry
+    \entry{Parabola}{online}{}
+      \name{author}{1}{}{%
+        {{hash=32b9ec038bd30c9767ff0dcd1f4db6e5}{%
+           family={Johns},
+           familyi={J\bibinitperiod},
+           given={W.\bibnamedelimi E.},
+           giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{32b9ec038bd30c9767ff0dcd1f4db6e5}
+      \strng{fullhash}{32b9ec038bd30c9767ff0dcd1f4db6e5}
+      \strng{bibnamehash}{32b9ec038bd30c9767ff0dcd1f4db6e5}
+      \strng{authorbibnamehash}{32b9ec038bd30c9767ff0dcd1f4db6e5}
+      \strng{authornamehash}{32b9ec038bd30c9767ff0dcd1f4db6e5}
+      \strng{authorfullhash}{32b9ec038bd30c9767ff0dcd1f4db6e5}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Notes on Laying Out a Parabola}
+      \field{year}{2003}
+      \verb{urlraw}
+      \verb http://www.gizmology.net/parabola.htm
+      \endverb
+      \verb{url}
+      \verb http://www.gizmology.net/parabola.htm
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
