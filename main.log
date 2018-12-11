@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.12.3)  10 DEC 2018 20:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.12.3)  10 DEC 2018 21:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -624,7 +624,7 @@ Package gensymb Info: Using \Omega for \ohm on input line 26.
 
 Package gensymb Warning: Not defining \micro.
 
-<./images/finished_cooker.jpg, id=104, 1027.84pt x 682.55pt>
+<./images/finished_cooker.jpg, id=100, 1027.84pt x 682.55pt>
 File: ./images/finished_cooker.jpg Graphic file (type jpg)
 <use ./images/finished_cooker.jpg>
 Package pdftex.def Info: ./images/finished_cooker.jpg  used on input line 48.
@@ -640,149 +640,149 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- (./main.lof)
+ [1] (./main.lof)
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
- [1]
-<./images/Concentrator-diagram.png, id=173, 280.79906pt x 213.79875pt>
+ [2]
+<./images/Concentrator-diagram.png, id=172, 280.79906pt x 213.79875pt>
 File: ./images/Concentrator-diagram.png Graphic file (type png)
 <use ./images/Concentrator-diagram.png>
-Package pdftex.def Info: ./images/Concentrator-diagram.png  used on input line 70.
+Package pdftex.def Info: ./images/Concentrator-diagram.png  used on input line 72.
 (pdftex.def)             Requested size: 140.39919pt x 106.89911pt.
 
-Underfull \hbox (badness 2111) in paragraph at lines 93--93
+Underfull \hbox (badness 2111) in paragraph at lines 95--95
 []|\OT1/cmr/m/n/10 Heavy duty card-
  []
 
 
-Underfull \hbox (badness 7081) in paragraph at lines 95--95
+Underfull \hbox (badness 7081) in paragraph at lines 97--97
 []|\OT1/cmr/m/n/10 Enough to cover
  []
 
 
-Underfull \hbox (badness 3635) in paragraph at lines 97--97
+Underfull \hbox (badness 3635) in paragraph at lines 99--99
 \OT1/cmr/m/n/10 with flat wash-ers
  []
 
 
-Underfull \hbox (badness 1038) in paragraph at lines 98--98
+Underfull \hbox (badness 1038) in paragraph at lines 100--100
 []|\OT1/cmr/m/n/10 6-inch 1/4-20 car-
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 98--98
+Underfull \hbox (badness 1527) in paragraph at lines 100--100
 \OT1/cmr/m/n/10 wash-ers and wing
  []
 
 
-Underfull \hbox (badness 6542) in paragraph at lines 101--101
+Underfull \hbox (badness 6542) in paragraph at lines 103--103
 []|\OT1/cmr/m/n/10 1/2-inch elec-tri-cal
  []
 
 
-Overfull \hbox (8.17935pt too wide) in paragraph at lines 86--105
+Overfull \hbox (8.17935pt too wide) in paragraph at lines 88--107
 [][] 
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.106         \newpage
+l.108         \newpage
                        [1 <./images/Concentrator-diagram.png>] [2]
 <./images/template_3d.jpg, id=194, 735.49782pt x 500.62032pt>
 File: ./images/template_3d.jpg Graphic file (type jpg)
 <use ./images/template_3d.jpg>
-Package pdftex.def Info: ./images/template_3d.jpg  used on input line 167.
+Package pdftex.def Info: ./images/template_3d.jpg  used on input line 168.
 (pdftex.def)             Requested size: 164.20134pt x 111.76387pt.
 <./images/template_side.jpg, id=195, 735.49782pt x 500.62032pt>
 File: ./images/template_side.jpg Graphic file (type jpg)
 <use ./images/template_side.jpg>
-Package pdftex.def Info: ./images/template_side.jpg  used on input line 171.
+Package pdftex.def Info: ./images/template_side.jpg  used on input line 172.
 (pdftex.def)             Requested size: 164.20134pt x 111.76387pt.
 <./images/template_top.jpg, id=196, 735.49782pt x 500.62032pt>
 File: ./images/template_top.jpg Graphic file (type jpg)
 <use ./images/template_top.jpg>
-Package pdftex.def Info: ./images/template_top.jpg  used on input line 175.
+Package pdftex.def Info: ./images/template_top.jpg  used on input line 176.
 (pdftex.def)             Requested size: 164.20134pt x 111.76387pt.
  [3 <./images/template_3d.jpg> <./images/template_side.jpg> <./images/template_top.jpg>]
 <./images/base_3d.png, id=220, 479.7925pt x 361.35pt>
 File: ./images/base_3d.png Graphic file (type png)
 <use ./images/base_3d.png>
-Package pdftex.def Info: ./images/base_3d.png  used on input line 211.
+Package pdftex.def Info: ./images/base_3d.png  used on input line 212.
 (pdftex.def)             Requested size: 164.20134pt x 123.6679pt.
 <./images/base_side.png, id=221, 479.7925pt x 361.35pt>
 File: ./images/base_side.png Graphic file (type png)
 <use ./images/base_side.png>
-Package pdftex.def Info: ./images/base_side.png  used on input line 215.
+Package pdftex.def Info: ./images/base_side.png  used on input line 216.
 (pdftex.def)             Requested size: 164.20134pt x 123.6679pt.
 <./images/base_rear.png, id=223, 479.7925pt x 361.35pt>
 File: ./images/base_rear.png Graphic file (type png)
 <use ./images/base_rear.png>
-Package pdftex.def Info: ./images/base_rear.png  used on input line 219.
+Package pdftex.def Info: ./images/base_rear.png  used on input line 220.
 (pdftex.def)             Requested size: 164.20134pt x 123.6679pt.
  [4 <./images/base_3d.png> <./images/base_side.png> <./images/base_rear.png>] [5]
-<./images/large_dish.png, id=261, 554.07pt x 283.0575pt>
+<./images/large_dish.png, id=260, 554.07pt x 283.0575pt>
 File: ./images/large_dish.png Graphic file (type png)
 <use ./images/large_dish.png>
-Package pdftex.def Info: ./images/large_dish.png  used on input line 286.
+Package pdftex.def Info: ./images/large_dish.png  used on input line 288.
 (pdftex.def)             Requested size: 277.03432pt x 141.5284pt.
-<./images/steam_power.png, id=262, 357.58594pt x 209.28188pt>
+<./images/steam_power.png, id=261, 357.58594pt x 209.28188pt>
 File: ./images/steam_power.png Graphic file (type png)
 <use ./images/steam_power.png>
-Package pdftex.def Info: ./images/steam_power.png  used on input line 293.
+Package pdftex.def Info: ./images/steam_power.png  used on input line 296.
 (pdftex.def)             Requested size: 268.18878pt x 156.961pt.
-<./images/trough.png, id=264, 726.46407pt x 541.27219pt>
+<./images/trough.png, id=263, 726.46407pt x 541.27219pt>
 File: ./images/trough.png Graphic file (type png)
 <use ./images/trough.png>
-Package pdftex.def Info: ./images/trough.png  used on input line 301.
+Package pdftex.def Info: ./images/trough.png  used on input line 304.
 (pdftex.def)             Requested size: 246.29417pt x 183.50978pt.
-<./images/underfloor.jpg, id=267, 501.875pt x 401.5pt>
+<./images/underfloor.jpg, id=266, 501.875pt x 401.5pt>
 File: ./images/underfloor.jpg Graphic file (type jpg)
 <use ./images/underfloor.jpg>
-Package pdftex.def Info: ./images/underfloor.jpg  used on input line 305.
+Package pdftex.def Info: ./images/underfloor.jpg  used on input line 308.
 (pdftex.def)             Requested size: 246.29417pt x 197.03691pt.
  [6 <./images/large_dish.png> <./images/steam_power.PNG>] [7 <./images/trough.png> <./images/underfloor.jpg>]
-<./images/parabola01.png, id=284, 143.03438pt x 127.97812pt>
+<./images/parabola01.png, id=283, 143.03438pt x 127.97812pt>
 File: ./images/parabola01.png Graphic file (type png)
 <use ./images/parabola01.png>
-Package pdftex.def Info: ./images/parabola01.png  used on input line 319.
+Package pdftex.def Info: ./images/parabola01.png  used on input line 322.
 (pdftex.def)             Requested size: 143.03401pt x 127.9778pt.
-<./images/parabola02.png, id=285, 143.78719pt x 127.97812pt>
+<./images/parabola02.png, id=284, 143.78719pt x 127.97812pt>
 File: ./images/parabola02.png Graphic file (type png)
 <use ./images/parabola02.png>
-Package pdftex.def Info: ./images/parabola02.png  used on input line 328.
+Package pdftex.def Info: ./images/parabola02.png  used on input line 331.
 (pdftex.def)             Requested size: 143.78683pt x 127.9778pt.
-<./images/parabola04.png, id=286, 143.03438pt x 128.73094pt>
+<./images/parabola04.png, id=285, 143.03438pt x 128.73094pt>
 File: ./images/parabola04.png Graphic file (type png)
 <use ./images/parabola04.png>
-Package pdftex.def Info: ./images/parabola04.png  used on input line 337.
+Package pdftex.def Info: ./images/parabola04.png  used on input line 340.
 (pdftex.def)             Requested size: 143.03401pt x 128.7306pt.
-<./images/parabola06.png, id=287, 143.03438pt x 127.97812pt>
+<./images/parabola06.png, id=286, 143.03438pt x 127.97812pt>
 File: ./images/parabola06.png Graphic file (type png)
 <use ./images/parabola06.png>
-Package pdftex.def Info: ./images/parabola06.png  used on input line 346.
+Package pdftex.def Info: ./images/parabola06.png  used on input line 349.
 (pdftex.def)             Requested size: 143.03401pt x 127.9778pt.
  [8 <./images/parabola01.png> <./images/parabola02.png> <./images/parabola04.png>]
-<./images/parabola07.png, id=299, 143.03438pt x 127.97812pt>
+<./images/parabola07.png, id=298, 143.03438pt x 127.97812pt>
 File: ./images/parabola07.png Graphic file (type png)
 <use ./images/parabola07.png>
-Package pdftex.def Info: ./images/parabola07.png  used on input line 356.
+Package pdftex.def Info: ./images/parabola07.png  used on input line 359.
 (pdftex.def)             Requested size: 143.03401pt x 127.9778pt.
-<./images/parabola08.png, id=300, 143.03438pt x 127.97812pt>
+<./images/parabola08.png, id=299, 143.03438pt x 127.97812pt>
 File: ./images/parabola08.png Graphic file (type png)
 <use ./images/parabola08.png>
-Package pdftex.def Info: ./images/parabola08.png  used on input line 365.
+Package pdftex.def Info: ./images/parabola08.png  used on input line 368.
 (pdftex.def)             Requested size: 143.03401pt x 127.9778pt.
  [9 <./images/parabola06.png> <./images/parabola07.png> <./images/parabola08.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 374.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 377.
  [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 374.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 377.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 374.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 374.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 377.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 377.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9B0E8FF8C7B7712DE9267B292944AD86;1594.
+(rerunfilecheck)             Checksum: EABAC2A9B217FC981879C10AD32B6B5C;1516.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -792,18 +792,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 14135 strings out of 492639
- 237274 string characters out of 6133103
+ 14134 strings out of 492639
+ 237251 string characters out of 6133103
  700317 words of memory out of 5000000
- 17726 multiletter control sequences out of 15000+600000
+ 17725 multiletter control sequences out of 15000+600000
  7144 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,11n,46p,943b,1380s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (12 pages, 2013521 bytes).
+Output written on main.pdf (13 pages, 2013081 bytes).
 PDF statistics:
  374 PDF objects out of 1000 (max. 8388607)
- 318 compressed objects within 4 object streams
+ 317 compressed objects within 4 object streams
  116 named destinations out of 1000 (max. 500000)
- 291 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 283 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -14,8 +14,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4}Preparing the Location}{2}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Environmental Specifications}{2}{subsection.4.1}
-\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5}Building the P.D.S.C.}{2}{section.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.1}Building the P.D.S.C. Dish Template}{2}{subsection.5.1}
