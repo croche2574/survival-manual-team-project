@@ -47,6 +47,33 @@
       \verb https://shaikmohasin.wordpress.com/2012/08/25/parabolic-dish-system/
       \endverb
     \endentry
+    \entry{Basking-in-the-Sun}{online}{}
+      \name{author}{1}{}{%
+        {{hash=8c506352e8e53185d59f8c2d21934ad7}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{8c506352e8e53185d59f8c2d21934ad7}
+      \strng{fullhash}{8c506352e8e53185d59f8c2d21934ad7}
+      \strng{bibnamehash}{8c506352e8e53185d59f8c2d21934ad7}
+      \strng{authorbibnamehash}{8c506352e8e53185d59f8c2d21934ad7}
+      \strng{authornamehash}{8c506352e8e53185d59f8c2d21934ad7}
+      \strng{authorfullhash}{8c506352e8e53185d59f8c2d21934ad7}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Basking in the Sun}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://dothemath.ucsd.edu/2012/01/basking-in-the-sun/
+      \endverb
+      \verb{url}
+      \verb https://dothemath.ucsd.edu/2012/01/basking-in-the-sun/
+      \endverb
+    \endentry
     \entry{Steam-Gen}{thesis}{}
       \name{author}{1}{}{%
         {{hash=e1746652f1a4e2f243c10763c10a44c4}{%
@@ -64,8 +91,8 @@
       \strng{authorbibnamehash}{e1746652f1a4e2f243c10763c10a44c4}
       \strng{authornamehash}{e1746652f1a4e2f243c10763c10a44c4}
       \strng{authorfullhash}{e1746652f1a4e2f243c10763c10a44c4}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{LOW-COST CONCENTRATING SOLAR COLLECTOR FOR STEAM GENERATION}
@@ -86,8 +113,8 @@
       \strng{authorbibnamehash}{b991ed559a63c64542110febfd57fd0f}
       \strng{authornamehash}{b991ed559a63c64542110febfd57fd0f}
       \strng{authorfullhash}{b991ed559a63c64542110febfd57fd0f}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Solar Collectors ...Behind the Glass}
@@ -113,8 +140,8 @@
       \strng{authorbibnamehash}{32b9ec038bd30c9767ff0dcd1f4db6e5}
       \strng{authornamehash}{32b9ec038bd30c9767ff0dcd1f4db6e5}
       \strng{authorfullhash}{32b9ec038bd30c9767ff0dcd1f4db6e5}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Notes on Laying Out a Parabola}

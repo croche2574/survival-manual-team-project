@@ -1,4 +1,4 @@
-\documentclass{article}
+\documentclass[titlepage]{article}
 % General document formatting
 \usepackage[margin=0.7in]{geometry}
 \usepackage[parfill]{parskip}
@@ -8,8 +8,6 @@
 \usepackage{adjustbox}
 \usepackage[backend=biber, style=ieee]{biblatex}
 \addbibresource{citations.bib}
-\usepackage[nomain,acronym,xindy,toc]{glossaries} % nomain, if you define glossaries in a file, and you use \include{INP-00-glossary}
-\makeglossaries
 \usepackage[table,xcdraw]{xcolor}
 \usepackage{appendix}
 \usepackage{gensymb}
@@ -23,20 +21,38 @@
 }
 \graphicspath{ {./images/} }
 
-\input{glossary}
     
 
 \begin{document}
-    \title{Simple Solar Power}
-    \author{Christopher Molina, Colter Roche, Damien Kent, David Rodriguez, Halle Fortune}
-    \date{\today}
-    \maketitle
-    \newpage
-
+    \begin{titlepage}
+        \begin{center}
+            \vspace*{1cm}
+    
+            \Huge
+            \textbf{Simple Parabolic Dish Solar Concentrator (P.D.S.C.)}
+    
+            \vspace{0.5cm}
+            \LARGE
+            A simple cooking solution
+    
+            \vspace{1.5cm}
+    
+            \textbf{Outlierz inc.}
+    
+            \vspace{3.5cm}
+    
+            User Manual and Construction Guide
+    
+            \vspace{0.8cm}
+    
+            \includegraphics[width=0.5\textwidth]{finished_cooker}    
+        \end{center}
+    \end{titlepage}  
+        
+    
     \pagenumbering{roman}
     \tableofcontents
     \listoffigures
-    \printglossary[type=\acronymtype]
     \newpage
     \pagenumbering{arabic}
 
@@ -48,7 +64,7 @@
         adequate fire wood is not always available but sunlight is an unlimited resource. Construction of a device 
         using this system will help in providing the community with a sustainable long term heating or cooking method 
         that does not require electricity or fire. The device that this manual will be discussing is a Parabolic 
-        Dish Solar Concentrator (PDSC) focused on the application for cooking food and boiling water. The PDSC is a 
+        Dish Solar Concentrator (P.D.S.C) focused on the application for cooking food and boiling water. The PDSC is a 
         concentrator that is in the shape of a satellite dish that provides a central point for the sunlight to heat. 
         \begin{wrapfigure}{r}{0.4\textwidth}
             \includegraphics[scale=.5]{Concentrator-diagram}
@@ -56,12 +72,12 @@
         \end{wrapfigure}
 
         \subsection{Background}
-            Solar concentration was first used for cooking as early as 1767.  Parabolic Dish Solar Collectors were first developed 
+            Solar concentration was first used for cooking as early as 1767.  Parabolic Dish Solar Collectors  were first developed 
             as a source of power generation in the early part of the industrial revolution, born from fears that Europe would run 
             out of coal.  Through the use of curved mirrors, sunlight can be concentrated into a point, generating intense heat.  
             This heat can then be used to boil water, produce steam, cook food, and generate power.  The P.D.S.C described in this 
             manual can generate temperatures of close to 200 degrees F, and can be used anywhere a direct source of sunlight is 
-            available, including high altitudes.
+            available, including high altitudes\cite{Basking-in-the-Sun}.
         
     
     \section{Materials, Tools and Skills}
@@ -354,6 +370,5 @@
             \end{minipage}
         \end{enumerate}
     \newpage
-    \printglossary
     \printbibliography
 \end{document}
